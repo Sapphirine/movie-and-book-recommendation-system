@@ -1,0 +1,31 @@
+@font-face {
+  font-family: Avenir;
+  src: url(./static_assets/font/AvenirLTStd-Light.otf);
+}
+
+@font-face {
+  font-family: Avenir-Medium;
+  src: url(./static_assets/font/Avenir-Medium.ttf);
+}
+
+@font-face {
+  font-family: Avenir-Black;
+  src: url(./static_assets/font/Avenir-Black.ttf);
+}
+
+@font-face {
+  font-family: Avenir-Roman;
+  src: url(./static_assets/font/AvenirLTStd-Roman.otf);
+}
+
+head {
+  margin: 0;
+  padding: 0;
+  font-family: Avenir;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Avenir;
+}
