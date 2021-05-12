@@ -13,7 +13,7 @@
     "lodash": "^4.17.4",
     "mandrill-api": "^1.0.45",
     "moment": "^2.18.1",
-    "nodemailer": "^4.2.0",
+    "nodemailer": "^6.4.16",
     "prop-types": "^15.6.0",
     "rc-time-picker": "^3.1.0",
     "react": "^15.6.1",
